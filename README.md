@@ -7,7 +7,7 @@ Il pannello di controllo sulla sinistra permette di scegliere tra quattro filtri
 - CR (passa-alto)
 - RL (passa-alto)
 - LR (passa-basso)
-Per ciascuno dei quattro circuiti viene data la possibilità di scegliere il valore dei componenti presenti. I menù a cascata sulla destra permettono di scegliere l'ordine di grandezza del componente (ad esempio, consentono di passare da Ohm a kOhm e a MOhm, che corrispondono rispettivamente a 10^0 Ohm, 10^3Ohm e 10^6Ohm.
+Per ciascuno dei quattro circuiti viene data la possibilità di scegliere il valore dei componenti presenti. I menù a cascata sulla destra permettono di scegliere l'ordine di grandezza del componente (ad esempio, consentono di passare da Ohm a kOhm e a MOhm, che corrispondono rispettivamente a 10^0 Ohm, 10^3Ohm e 10^6Ohm).
 
 Una volta scelto il valore dei componenti, è sufficiente fare click sul pulsante "Calcola Grafico" per ottenere il diagramma di Modulo e Fase della funzione di trasferimento corrispondente al circuito scelto. È anche possibile salvare i due grafici premendo il pulsante "Salva Immagine". Le immagini vengono salvate in formato .png nella stessa cartella da cui è stato aperto il programma.
 
